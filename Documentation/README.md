@@ -26,7 +26,7 @@ Generate professional shaders without writing code from scratch.
 
 ## Requirements
 
-- Unity 2021.3 or later
+- Unity 6 LTS or later
 - Universal Render Pipeline (URP)
 
 ## Version History
